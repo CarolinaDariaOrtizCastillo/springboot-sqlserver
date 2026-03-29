@@ -22,10 +22,12 @@ http://localhost:8012/swagger-ui/index.html
 
 ### 🖥️ Pantalla principal del proyecto
 Muestra la interfaz de usuario cargando correctamente y los endpoints funcionando.
+
 <img width="370" height="802" alt="Captura de pantalla 2026-03-29 180717" src="https://github.com/user-attachments/assets/27abd087-1ebd-46b9-9015-255d9e8ed0c3" />
 
 ### 📊 Resultado en Swagger UI
 Se evidencia la documentación de la API y los endpoints listos para pruebas.
+
 <img width="1378" height="706" alt="Captura de pantalla 2026-03-29 180655" src="https://github.com/user-attachments/assets/6f9dfaf7-8b8d-4bbe-bee6-f48874e774b6" />
 
 
